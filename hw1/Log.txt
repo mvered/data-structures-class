@@ -1,0 +1,2 @@
+Michelle	2	0.2
+Sarah	1	1.0
