@@ -1,1 +1,3 @@
-# cs1520-data-structures
+# data-structures
+
+Excercises to practice data structures concepts
